@@ -4,7 +4,7 @@ uvicorn[standard]
 
 # Communication with external APIs
 httpx
-
+pydantic[email]
 # Firebase
 firebase-admin==6.5.0
 
