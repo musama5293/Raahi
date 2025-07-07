@@ -1,0 +1,18 @@
+# FastAPI and Server
+fastapi
+uvicorn[standard]
+
+# Communication with external APIs
+httpx
+
+# Firebase
+firebase-admin==6.5.0
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Google Photos API
+google-api-python-client==2.126.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+polyline==2.0.2 
